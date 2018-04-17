@@ -1,3 +1,28 @@
 body{
 	background-color: black;
 }
+.button{
+	width:25px;
+	height: 25px;
+	margin-bottom: 5px;
+	border:10px;
+}
+.button1{
+	width:75px;
+	height: 25px;
+	margin-bottom: 5px;
+}
+.input{
+	width: 122px;
+	height: 25px;
+	margin-bottom: 5px;
+	margin-left: 15px;
+}
+.calc{
+	margin-top: 350px;
+	margin-left: 50px;
+}
+
+.inputs{
+	width: 
+}
